@@ -42,7 +42,7 @@ I use a lot of extensions. I currently have 91 installed, but I will go over som
 
 12. [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) An amazing package that will ssh you into a machine and the entire VSCode editor will be at your disposal. No need for scp or vi. You can code directly in VSCode on the machine
 
-13. [Selected Character Count](https://marketplace.visualstudio.com/items?itemName=mousetraps.selected-character-count) This is very useful. If you want to know how many zeroes there are in a string, how many characters, etc. Just highlight the text and do "Character Count" in the command pallete
+13. [Selected Character Count](https://marketplace.visualstudio.com/items?itemName=mousetraps.selected-character-count) This is very useful. If you want to know how many zeroes there are in a string, how many characters, etc. Just highlight the text and do "Character Count" in the command 
 
 ![Demo for Character Count](https://user-images.githubusercontent.com/762848/36338135-07014900-135c-11e8-80e3-ec2a24501d85.png)
 
@@ -60,3 +60,15 @@ I use a lot of extensions. I currently have 91 installed, but I will go over som
 
 ### VSCode Preferences
 1. Enable Bracket pair colorization `Editor › Bracket Pair Colorization: Enabled`
+2. Change `Editor: Multi Cursor Modifier` to `ctrlCmd` which will allow you to hold command on mac and click to add more cursors
+
+### Keyboard Shortcuts (can set in Preferences > Keyboard Shortcuts)
+- For previous Atom users: Use the [Atom Keymap Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) and the keybindings should be familiar
+- `Command + Shift + P` will be defaulted to open the command palette
+- `Command + Shfit + L` should be set to `Search Editor: Select All Matches`
+- `Command + J` should be set to `View: Toggle Panel Visibility` - this will hide and close the terminal easily
+- `Command + Shift + D` should be set to `Copy Line Down` - this is how to duplicate lines or selections
+- `Option + DownArrow` should be set to `Move Line Down` and `Option + UpArrow` should be set to `Move Line Up`
+- `Control + K` should be set to `Delete All Right` - this will delete an entire line of code
+- `Control + Command + DownArrow` should be set to `Add Cursor Below` and `Control + Command + UpArrow` should be set to `Add Cursor Above`
+- `Command + \` should be set to `View: Toggle Primary Side Bar Visibility` - this will toggle hiding the left sidebar that contains the explorer. Useful for when in small windows
