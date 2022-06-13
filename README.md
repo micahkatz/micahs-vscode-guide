@@ -57,3 +57,6 @@ I use a lot of extensions. I currently have 91 installed, but I will go over som
 16. [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) Automatically searches for TypeScript definitions in workspace files and provides all known symbols as completion item to allow code completion.
 
 ![Demo for Typescript importer](https://raw.githubusercontent.com/pmneo/ts-importer/master/demo.gif)
+
+### VSCode Preferences
+1. Enable Bracket pair colorization `Editor › Bracket Pair Colorization: Enabled`
