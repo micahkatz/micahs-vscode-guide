@@ -42,4 +42,18 @@ I use a lot of extensions. I currently have 91 installed, but I will go over som
 
 12. [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) An amazing package that will ssh you into a machine and the entire VSCode editor will be at your disposal. No need for scp or vi. You can code directly in VSCode on the machine
 
-![Demonstration of Remote SSH](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
+13. [Selected Character Count](https://marketplace.visualstudio.com/items?itemName=mousetraps.selected-character-count) This is very useful. If you want to know how many zeroes there are in a string, how many characters, etc. Just highlight the text and do "Character Count" in the command pallete
+
+![Demo for Character Count](https://user-images.githubusercontent.com/762848/36338135-07014900-135c-11e8-80e3-ec2a24501d85.png)
+
+14. [Tabnine AI Autocomplete](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) This is similar to GitHub copilot, and it will give some very helpful autocomplete coding suggestions
+
+![Demo for Tabnine](https://github.com/codota/TabNine/raw/master/with-and-without-tabnine-java.gif)
+
+15. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+
+![Demo for Turbo](https://image.ibb.co/dysw7p/insert_log_message.gif)
+
+16. [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) Automatically searches for TypeScript definitions in workspace files and provides all known symbols as completion item to allow code completion.
+
+![Demo for Typescript importer](https://raw.githubusercontent.com/pmneo/ts-importer/master/demo.gif)
