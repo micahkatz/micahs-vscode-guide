@@ -67,14 +67,15 @@ I use a lot of extensions. I currently have 91 installed, but I will go over som
 ### Keyboard Shortcuts (can set in Preferences > Keyboard Shortcuts)
 - For previous Atom users: Use the [Atom Keymap Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) and the keybindings should be familiar
 - `Command + Shift + P` will be defaulted to open the command palette
-- `Command + Shfit + L` should be set to `Search Editor: Select All Matches` - this is very useful. When you search for text, you can do this keybinding and press `esc` and cursors will be put at each occurrence of the text. This is more powerful than the basic `Find and Replace`. You can add entire sections of code or edit things other than the common occurrance as well.
+- `Command + Shift + L` should be set to `Search Editor: Select All Matches` - this is very useful. When you search for text, you can do this keybinding and press `esc` and cursors will be put at each occurrence of the text. This is more powerful than the basic `Find and Replace`. You can add entire sections of code or edit things other than the common occurrance as well.
 - `Command + J` should be set to `View: Toggle Panel Visibility` - this will hide and close the terminal easily
 - `Command + Shift + D` should be set to `Copy Line Down` - this is how to duplicate lines or selections
 - `Option + DownArrow` should be set to `Move Line Down` and `Option + UpArrow` should be set to `Move Line Up`
 - `Control + K` should be set to `Delete All Right` - this will delete an entire line of code
 - `Control + Command + DownArrow` should be set to `Add Cursor Below` and `Control + Command + UpArrow` should be set to `Add Cursor Above`
 - `Command + \` should be set to `View: Toggle Primary Side Bar Visibility` - this will toggle hiding the left sidebar that contains the explorer. Useful for when in small windows
-
+- `Command + Shift + U` - should be set to `Transform to Lowercase`
+- `Command + U` - should be set to `Transform to Uppercase`
 ### Advanced Guide for Multiple Cursors
 Being able to change an entire csv file to a json file all at once with multiple cursors is very powerful. I try to use multiple cursors as much as possible, but there is a learning curve to how to do it correctly. Just like `Replace all`, you must be careful when using a lot of cursors at once.
 1. There are multiple ways to add cursors
