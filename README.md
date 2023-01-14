@@ -5,7 +5,7 @@ My guide on maximizing efficiency with my favorite code editor –  VSCode
 I personally use the [**Palenight Theme**](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 - Change the theme and browse themes by opening the command pallette (Command + Shift + P) and typing `Preferences: Color Theme`
 
-![Palenight Theme](./assets/palenight-example.png)
+![Palenight Theme](assets/palenight-example.png)
 
 ### Extensions!!!
 I use a lot of extensions. I currently have 91 installed, but I will go over some of my favorites and rank them in this guide.
@@ -95,7 +95,7 @@ const exampleVar = 2;
 - Then you will notice some differences in each line. If you simply use the arrow keys to navigate, variables `x` and `exampleVar` will mess up your cursor alignment since they have a different amount of characters. Instead, navigate while holding `Option` and the arrow keys. This will move your cursors by each word instead of each character
 - Now move your cursors to the beginning of each value. 
 
-  <img src="./assets/multi-cursor-1.png" width="300px">
+  <img src="assets/multi-cursor-1.png" width="300px">
 
 - Now you need to select the full value of each (notice they are again a different amount of characters)
 - You can choose to do `Option + Shift` and move right, and you will will select the full value. But I usually do `Command + Shift` and move right. This will handle any issues where the value might be considered multiple words (e.g. example_value). 
@@ -103,4 +103,4 @@ const exampleVar = 2;
 - Type `"samplestring"` and you should have successfully finished your mission as shown below. Make sure that you re-add the semicolon if you took it away with the previous command
 - You can do this with an infinite amount of lines – as long as they have the same pattern to them
 
-  <img src="./assets/multi-cursor-2.png" width="300px">
+  <img src="assets/multi-cursor-2.png" width="300px">
